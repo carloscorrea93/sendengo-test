@@ -22,5 +22,6 @@ admin.site.register(core.models.Vehicle, VehicleAdmin)
 admin.site.register(core.models.VehicleEquipment)
 admin.site.register(core.models.Driver, DriverAdmin)
 admin.site.register(core.models.DriverRequirement)
+admin.site.register(core.models.Requirement)
 
 
