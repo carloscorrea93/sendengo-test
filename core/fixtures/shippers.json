@@ -1,0 +1,32 @@
+[
+  {
+    "model": "core.shipper",
+    "pk": 1,
+    "fields": {
+      "company_name": "Google",
+      "address": "Calle Montes Urales 445, Lomas - Virreyes, Lomas de Chapultepec, 11000 Ciudad de México, CDMX",
+      "phone": "5553428400",
+      "email": "info@google.com.mx"
+    }
+  },
+  {
+    "model": "core.shipper",
+    "pk": 2,
+    "fields": {
+      "company_name": "Apple",
+      "address": "Avenida Vasco de Quiroga 3800 Lomas de Santa Fe, Antigua Mina de Totolapa Del, Lomas de Santa Fe, Contadero, 05109 Ciudad de México, CDMX",
+      "phone": "5510376400",
+      "email": "ventas@apple.com"
+    }
+  },
+  {
+    "model": "core.shipper",
+    "pk": 3,
+    "fields": {
+      "company_name": "Nike",
+      "address": "Calz Legaria 549, México Nuevo, 11250 Ciudad de México, CDMX",
+      "phone": "5557548955",
+      "email": "envios@nike.com.mx"
+    }
+  }
+]

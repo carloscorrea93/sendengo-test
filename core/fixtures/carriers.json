@@ -1,0 +1,67 @@
+[
+  {
+    "model": "core.carrier",
+    "pk": 1,
+    "fields": {
+      "company_name": "Ebex Logistics",
+      "owner_name": "Ebex S.A. de C.V.",
+      "owner_surname": "Logistics",
+      "address": "Calle B 522, Milimex, 66600 Apodaca, N.L.",
+      "phone": "8110900303",
+      "email": "ventas@ebexlogistics.com",
+      "status": 1
+    }
+  },
+  {
+    "model": "core.carrier",
+    "pk": 2,
+    "fields": {
+      "company_name": "Logística de Almacenamiento",
+      "owner_name": "Logística",
+      "owner_surname": "de Almacenamiento",
+      "address": "Avenida Homero 1425, Polanco, Polanco II Secc, 11560 Ciudad de México, CDMX",
+      "phone": "5555344565",
+      "email": "ventas@logisticadealm.com",
+      "status": 2
+    }
+  },
+  {
+    "model": "core.carrier",
+    "pk": 3,
+    "fields": {
+      "company_name": "Accel Logística Camarones",
+      "owner_name": "Private",
+      "owner_surname": "Company",
+      "address": "Eje 3 Nte. Camarones 14, San Salvador Xochimanca, 02870 Ciudad de México, CDMX",
+      "phone": "5553412414",
+      "email": "ventas@accel.com.mx",
+      "status": 0
+    }
+  },
+  {
+    "model": "core.carrier",
+    "pk": 4,
+    "fields": {
+      "company_name": "R.H. SHIPPING - Logística Internacional - Aeropuerto México",
+      "owner_name": "Private",
+      "owner_surname": "Owner",
+      "address": "Almacén Enlace Estratégico Francisco Sarabia N° 34B, Peñón de los Baños, México (Lic. Benito Juárez), 15520 Ciudad de México",
+      "phone": "8002887447",
+      "email": "ventas@rhshipping.com.mx",
+      "status": 1
+    }
+  },
+  {
+    "model": "core.carrier",
+    "pk": 5,
+    "fields": {
+      "company_name": "TRANSPORTE Y LOGÍSTICA EFICIENTE",
+      "owner_name": "Private",
+      "owner_surname": "Owner",
+      "address": "Priv. Acalotenco 237, San Sebastian, 02040 Ciudad de México, CDMX",
+      "phone": "5531203482",
+      "email": "ventas@transporteylogistica.com.mx",
+      "status": 1
+    }
+  }
+]
